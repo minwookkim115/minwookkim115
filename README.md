@@ -1,6 +1,14 @@
-## 안녕하세요 김민욱입니다. 👋
-![https://www.notion.so/ea5bba2063c043feafadf8f21a3eaedd](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+## 👋 안녕하세요 김민욱입니다.
+
+## ⚡ SKILLS
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white]
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 <!--
 **minwookkim115/minwookkim115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
