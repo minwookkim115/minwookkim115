@@ -18,9 +18,9 @@
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white)
 
-<img align="left" width="310" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minwookkim"/>
+<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minwookkim"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwookkim115&layout=compact&theme=dracula&langs_count=8&exclude_rep=minwook"/>
+<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwookkim115&layout=compact&theme=dracula&langs_count=6&exclude_rep=minwook,CS_study,Ssafy_Algorithm_Study,minwookkim115"/>
 
 <!--
 **minwookkim115/minwookkim115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
