@@ -1,4 +1,6 @@
-## Hi there 👋
+## 안녕하세요 김민욱입니다. 👋
+https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
+
 
 <!--
 **minwookkim115/minwookkim115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
