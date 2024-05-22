@@ -19,7 +19,9 @@
 ![](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white)
 
 <img align="left" width="310" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minwookkim"/>
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwookkim115&layout=compact&hide=java&theme=dracula&langs_count=8"/>
+--!>
 
 <!--
 **minwookkim115/minwookkim115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
