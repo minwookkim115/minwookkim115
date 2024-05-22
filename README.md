@@ -1,4 +1,5 @@
 ## 👋 안녕하세요 김민욱입니다.
+삼성 청년 SW 아카데미(SSAFY) 10기
 
 ## ⚡ SKILLS
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -16,6 +17,8 @@
 
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white)
+
+
 
 <!--
 **minwookkim115/minwookkim115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
