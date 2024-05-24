@@ -20,7 +20,7 @@
 
 <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minwookkim"/>
 
-<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwookkim115&layout=compact&theme=dracula&langs_count=6"/>
+<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwookkim115&layout=compact&theme=dracula&langs_count=6&hide=java"/>
 
 <!--
 **minwookkim115/minwookkim115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
