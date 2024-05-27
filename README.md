@@ -1,5 +1,5 @@
 ## 👋 안녕하세요 김민욱입니다.
-<a href="(https://handy-lunch-058.notion.site/7b9b39dba2ed480f80b90f13d4449c57?pvs=4)"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
+<a href="https://handy-lunch-058.notion.site/7b9b39dba2ed480f80b90f13d4449c57?pvs=4"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
 삼성 청년 SW 아카데미(SSAFY) 10기
 
 ## ⚡ SKILLS
