@@ -2,6 +2,7 @@
 <a href="https://handy-lunch-058.notion.site/7b9b39dba2ed480f80b90f13d4449c57?pvs=4"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
 - 삼성 청년 SW 아카데미(SSAFY) 10기 (2023. 07 ~ 2024. 06)
 - 인공지능 사관학교 5기 (2024. 08 ~ 2024. 11)
+- (주)가이온 AI&드론연구소 (2025.02 ~)
 
 ## 🤔 INTRO
 - 항상 **새로운 도전**을 멈추지 않습니다.
